@@ -1,7 +1,8 @@
 # CRUD-Angular-Spring
 
 Implementado:
-- Crud with Angular, Angular Material and Sprint with H2
+- Get List with Angular, Angular Material and Sprint with H2
+- Em andamento restante do CRUD
 
 Utilizado:
 - Angular
